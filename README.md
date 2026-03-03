@@ -277,8 +277,8 @@ A: AI功能为本地算法，无需网络连接。如果无响应，请刷新页
 ## 📞 联系方式
 
 - **邮箱**：3845347272@qq.com
-- **项目主页**：[GitHub链接]
-- **在线演示**：[Demo链接]
+- **项目主页**：https://github.com/zhang6-maker/whale-piano
+- **在线演示**：https://zhang6-maker.github.io/whale-piano/
 
 ---
 
